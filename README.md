@@ -1,6 +1,10 @@
 # llm-with-bing-search-api
 Leverage Azure OpenAI with Bing Search API to query information from the web
 
+**Required Azure resources:**
+1. Azure OpenAI resource with gpt-4o deployment (named "gpt-4o")
+2. Bing Search resource
+
 **Required environment variables:**
 ```
 BING_SUBSCRIPTION_KEY = "<Add Bing Subscription Key>"
