@@ -13,3 +13,7 @@ AZURE_OPENAI_KEY = "<Add Azure OpenAI API Key>"
 AZURE_OPENAI_API_VERSION = "2024-09-01-preview"
 AZURE_OPENAI_DEPLOYMENT_NAME = "gpt-4o"
 ```
+
+**References:**
+[Create Bing Search resource](https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/create-bing-search-service-resource)
+[Create an Azure OpenAI resource](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
